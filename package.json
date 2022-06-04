@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "scoop": "^0.0.2"
+  }
+}
