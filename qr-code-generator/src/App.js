@@ -1,4 +1,4 @@
-import Qrcode from './components';
+import Qrcode from './components/Qrcode';
 import './App.css';
 
 function App() {
